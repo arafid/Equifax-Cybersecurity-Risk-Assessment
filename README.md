@@ -4,7 +4,7 @@ A team-based cybersecurity strategy project evaluating Equifax's cyber risk land
 
 The assessment connects cybersecurity risk to business operations, consumer trust, service availability, governance, and executive decision-making. It focuses on four major risk areas: sensitive data compromise, critical service disruption, third-party partner compromise, and AI / machine-identity misuse.
 
-![Cyber Risk Forecast](assets/cyber-risk-forecast.png)
+![Cyber Risk Forecast](assets/cyber-risk-forecast.svg)
 
 ## Project Highlights
 
@@ -19,28 +19,30 @@ The assessment connects cybersecurity risk to business operations, consumer trus
 
 | Risk Scenario | 12-Month Planning Range |
 | --- | ---: |
-| Sensitive data compromise / manipulation | 5-15% |
-| Critical decision-service disruption | 8-20% |
-| Trusted third-party / partner compromise | 12-30% |
-| AI-agent / machine-identity misuse | 10-25% |
+| Sensitive data compromise / manipulation | 5–15% |
+| Critical decision-service disruption | 8–20% |
+| Trusted third-party / partner compromise | 12–30% |
+| AI-agent / machine-identity misuse | 10–25% |
 
 These ranges are team-developed planning estimates for the project, not published Equifax incident rates. They were designed to support prioritization under uncertainty and should be updated as evidence and assumptions change.
 
 ## Strategic Priorities
 
-1. **Zero Trust & Identity Governance** - Reduce implicit trust through continuous verification, least privilege, time-limited privileged access, PAM, and microsegmentation.
-2. **Operational Resilience** - Strengthen backups, failover testing, dependency mapping, and recovery exercises for critical decision services.
-3. **Third-Party Risk Management** - Rank critical partners, tighten access and contract controls, and establish joint incident-response ownership.
-4. **AI & Machine-Identity Governance** - Inventory automated workflows and machine identities, assign business owners, enforce least privilege, and monitor behavioral drift.
+1. **Zero Trust & Identity Governance** — Reduce implicit trust through continuous verification, least privilege, time-limited privileged access, PAM, and microsegmentation.
+2. **Operational Resilience** — Strengthen backups, failover testing, dependency mapping, and recovery exercises for critical decision services.
+3. **Third-Party Risk Management** — Rank critical partners, tighten access and contract controls, and establish joint incident-response ownership.
+4. **AI & Machine-Identity Governance** — Inventory automated workflows and machine identities, assign business owners, enforce least privilege, and monitor behavioral drift.
 
 ## My Contribution
 
 This was a team project. My primary presentation responsibility was the **Cyber Risk Landscape** section, including the four 12-month forecast ranges and the reasoning behind them. I contributed to explaining how outside-in evidence, Equifax-specific exposure and controls, business impact, and uncertainty shaped the final risk forecasts.
 
-## Deliverables
+## Project Deliverables
 
-- [Cybersecurity Strategy Report](Equifax_Cybersecurity_Strategy_Report.pdf)
-- [Executive Strategy Presentation](Equifax_Cybersecurity_Strategy_Presentation.pdf)
+- [Cybersecurity Strategy Report — GitHub version](docs/Cybersecurity_Strategy_Report.md)
+- [Executive Strategy Presentation — GitHub version](docs/Executive_Strategy_Presentation.md)
+
+The original final report and presentation were submitted as PDF deliverables. The versions above are formatted specifically for GitHub so the analysis is easy to review directly in the repository.
 
 ## Skills Demonstrated
 
