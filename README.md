@@ -39,10 +39,15 @@ This was a team project. My primary presentation responsibility was the **Cyber 
 
 ## Project Deliverables
 
-- [Cybersecurity Strategy Report — GitHub version](docs/Cybersecurity_Strategy_Report.md)
-- [Executive Strategy Presentation — GitHub version](docs/Executive_Strategy_Presentation.md)
+### Cybersecurity Strategy Report
+- [View GitHub version](docs/Cybersecurity_Strategy_Report.md)
+- [View original PDF](docs/Equifax_Cybersecurity_Strategy_Report.pdf)
 
-The original final report and presentation were submitted as PDF deliverables. The versions above are formatted specifically for GitHub so the analysis is easy to review directly in the repository.
+### Executive Strategy Presentation
+- [View GitHub version](docs/Executive_Strategy_Presentation.md)
+- [View original PDF](docs/Equifax_Cybersecurity_Strategy_Presentation.pdf)
+
+The GitHub versions are formatted for quick review in the repository, while the PDFs are the original final project deliverables.
 
 ## Skills Demonstrated
 
